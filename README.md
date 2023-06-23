@@ -1,1 +1,5 @@
-# My name is Adegoke
+-Hi I am @goke-data
+- I am interested in Data Analytics
+- I am currently learning Data Analytics
+- I am looking to collaborate with https://github.com/Datafyde
+- How to read me goke92@gmail.com
